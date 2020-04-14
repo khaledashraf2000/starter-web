@@ -8,7 +8,11 @@ This example is to show different parts of the Git repository and various comman
 
 ## Purpose
 
+Praciticing Git and Github tools.
+
 ## Deployment
+
+Dummy text.
 
 ## How to contribute
 
